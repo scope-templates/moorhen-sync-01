@@ -1,0 +1,41 @@
+{
+  "title": "Moorhen product updates",
+  "entries": [
+    {
+      "id": "upd-1041",
+      "title": "Export API accepts date ranges",
+      "category": "release",
+      "published_at": "2026-10-01T08:30:00Z"
+    },
+    {
+      "id": "upd-1042",
+      "title": "Webhook retries now back off for up to an hour",
+      "category": "release",
+      "published_at": "2026-10-02T09:15:00Z"
+    },
+    {
+      "id": "upd-1043",
+      "title": "Delayed invoice emails on 3 October",
+      "category": "incident",
+      "published_at": "2026-10-03T17:45:00Z"
+    },
+    {
+      "id": "upd-1044",
+      "title": "Rate limits raised for the reporting endpoints",
+      "category": "release",
+      "published_at": "2026-10-04T10:00:00Z"
+    },
+    {
+      "id": "upd-1045",
+      "title": "Maintenance window on 12 October, 01:00 to 02:00 UTC",
+      "category": "notice",
+      "published_at": "2026-10-05T12:00:00Z"
+    },
+    {
+      "id": "upd-1046",
+      "title": "CSV import handles quoted newlines",
+      "category": "release",
+      "published_at": "2026-10-06T08:00:00Z"
+    }
+  ]
+}
