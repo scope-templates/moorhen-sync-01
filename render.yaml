@@ -1,0 +1,12 @@
+services:
+  - type: worker
+    name: moorhen-sync
+    runtime: python
+    plan: starter
+    buildCommand: pip install -r requirements.txt
+    startCommand: python worker.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.8
+      - key: FEED_URL
+        sync: false
